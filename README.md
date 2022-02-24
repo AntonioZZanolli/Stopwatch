@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/antonioZZanolli/Stopwatch?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AntonioZZanolli/Stopwatch?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/antonioZZanolli/Stopwatch">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AntonioZZanolli/Stopwatch">
       
  
 </p>
