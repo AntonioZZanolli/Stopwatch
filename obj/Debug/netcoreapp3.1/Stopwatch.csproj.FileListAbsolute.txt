@@ -1,0 +1,13 @@
+C:\wamp64\www\ProjetosAntonio\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+C:\wamp64\www\ProjetosAntonio\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+C:\wamp64\www\ProjetosAntonio\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\wamp64\www\ProjetosAntonio\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\wamp64\www\ProjetosAntonio\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+C:\wamp64\www\ProjetosAntonio\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csprojAssemblyReference.cache
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\wamp64\www\ProjetosAntonio\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
